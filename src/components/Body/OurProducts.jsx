@@ -109,7 +109,7 @@ function OurProducts() {
                   </div>
                   <div>
                     <p className="font-semibold text-left text-white">
-                      Showcase all Collaterals
+                      Showcase Collaterals
                     </p>
                   </div>
                 </div>
